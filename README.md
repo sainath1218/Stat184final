@@ -31,6 +31,8 @@ Provided as CSV from kaggle
 - "Top 50 Fast-Food Chains in USA.csv" - The sales data.
 - "Guidelines.pdf.pdf" - The completed project checklist.
 
+We made a conclusion that the more number of joints the lower the average calorie value was. We also found out the nutritional differences between fast food joints. We made a conclusion that the more the sales were, the lesser their average calories.
+
 
 ## Author
 - Sainath Sunkara
